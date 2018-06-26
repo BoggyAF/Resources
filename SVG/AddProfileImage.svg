@@ -1,21 +1,10 @@
-<svg width="988" height="964" viewBox="0 0 988 964" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M0 24.8438C3.73047 14.6719 10.4922 6.00781 19.1719 0C26.4336 7.43359 36.5703 12.0508 47.7852 12.0508C59 12.0508 69.1367 7.43359 76.3984 0C84.8828 5.87109 91.5391 14.2812 95.3164 24.1602C82.7266 35.8828 65.8438 43.0508 47.2852 43.0508C29.0898 43.0508 12.5078 36.1602 0 24.8438Z" transform="translate(292.859 591.797) scale(4)" fill="white"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M137.238 86C130.215 116.367 103 139 70.5 139C32.668 139 2 108.332 2 70.5C2 32.668 32.668 2 70.5 2C102.645 2 129.617 24.1367 137 54H139.059C131.633 23.0234 103.754 0 70.5 0C31.5625 0 0 31.5625 0 70.5C0 109.438 31.5625 141 70.5 141C104.113 141 132.227 117.48 139.289 86H137.238Z" transform="translate(200 200) scale(4)" fill="white"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M137.238 86C130.215 116.367 103 139 70.5 139C32.668 139 2 108.332 2 70.5C2 32.668 32.668 2 70.5 2C102.645 2 129.617 24.1367 137 54H139.059C131.633 23.0234 103.754 0 70.5 0C31.5625 0 0 31.5625 0 70.5C0 109.438 31.5625 141 70.5 141C104.113 141 132.227 117.48 139.289 86H137.238Z" transform="translate(200 200) scale(4)" fill="url(#paint0_linear)"/>
-<circle cx="28" cy="28" r="28" transform="translate(372 368) scale(4)" fill="white"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.5C10 0.671875 9.32812 0 8.5 0C7.67188 0 7 0.671875 7 1.5V7.42188H1.5C0.671875 7.42188 0 8.09375 0 8.92188C0 9.75 0.671875 10.4219 1.5 10.4219H7V16.5C7 17.3281 7.67188 18 8.5 18C9.32812 18 10 17.3281 10 16.5V10.4219H15.5C16.3281 10.4219 17 9.75 17 8.92188C17 8.09375 16.3281 7.42188 15.5 7.42188H10V1.5Z" transform="translate(720 444) scale(4)" fill="white"/>
-</g>
+<svg width="588" height="564" viewBox="0 0 588 564" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 24.8438C3.73047 14.6719 10.4922 6.00781 19.1719 0C26.4336 7.43359 36.5703 12.0508 47.7852 12.0508C59 12.0508 69.1367 7.43359 76.3984 0C84.8828 5.87109 91.5391 14.2812 95.3164 24.1602C82.7266 35.8828 65.8438 43.0508 47.2852 43.0508C29.0898 43.0508 12.5078 36.1602 0 24.8438Z" transform="translate(92.8594 391.797) scale(4)" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M137.238 86C130.215 116.367 103 139 70.5 139C32.668 139 2 108.332 2 70.5C2 32.668 32.668 2 70.5 2C102.645 2 129.617 24.1367 137 54H139.059C131.633 23.0234 103.754 0 70.5 0C31.5625 0 0 31.5625 0 70.5C0 109.438 31.5625 141 70.5 141C104.113 141 132.227 117.48 139.289 86H137.238Z" transform="scale(4)" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M137.238 86C130.215 116.367 103 139 70.5 139C32.668 139 2 108.332 2 70.5C2 32.668 32.668 2 70.5 2C102.645 2 129.617 24.1367 137 54H139.059C131.633 23.0234 103.754 0 70.5 0C31.5625 0 0 31.5625 0 70.5C0 109.438 31.5625 141 70.5 141C104.113 141 132.227 117.48 139.289 86H137.238Z" transform="scale(4)" fill="url(#paint0_linear)"/>
+<circle cx="28" cy="28" r="28" transform="translate(172 168) scale(4)" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.5C10 0.671875 9.32812 0 8.5 0C7.67188 0 7 0.671875 7 1.5V7.42188H1.5C0.671875 7.42188 0 8.09375 0 8.92188C0 9.75 0.671875 10.4219 1.5 10.4219H7V16.5C7 17.3281 7.67188 18 8.5 18C9.32812 18 10 17.3281 10 16.5V10.4219H15.5C16.3281 10.4219 17 9.75 17 8.92188C17 8.09375 16.3281 7.42188 15.5 7.42188H10V1.5Z" transform="translate(520 244) scale(4)" fill="white"/>
 <defs>
-<filter id="filter0_d" x="0" y="0" width="988" height="964" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="25"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-</filter>
 <linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(139.289) scale(139.289 141) rotate(90)">
 <stop stop-color="#9289E0"/>
 <stop offset="1" stop-color="#8F596D"/>
